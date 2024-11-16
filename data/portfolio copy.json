@@ -1,16 +1,16 @@
 {
-  "name": "Chetan",
+  "name": "Fahrul",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
+  "headerTaglineTwo": "I'm Fahrul Hamzidan Pulungan",
   "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineFour": " based Batam , Indonesia.",
   "showBlog": true,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/z1dan820"
     },
     {
       "id": "2",
